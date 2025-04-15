@@ -26,14 +26,15 @@ $ pip install linkedin_ai
 
 ``` python
 import os
-from linkedin_ai import LinkedInAI
+from linkedin_ai import LinkedinAI
 
 os.environ["OPENAI_API_KEY"] = "YOUR_OPENAI_API_KEY"
 
-my_ai = LinkedInAI.from_bm25(posts="<path to linkiedin posts>")
+my_ai = LinkedinAI.from_bm25(posts="<path to linkiedin posts>")
 my_ai.ask("What is the best way to learn Python?")
 ```
 
+Checkout ![example notebook](/docs/0_example.ipynb)
 
                         
                         
