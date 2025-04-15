@@ -9,20 +9,17 @@ Install latest from the GitHub
 ``` sh
 $ pip install git+https://github.com/shahules786/linkedin_ai.git
 ```
+or 
 
-or from [conda](https://anaconda.org/shahules786/linkedin_ai)
-
-``` sh
-$ conda install -c shahules786 linkedin_ai
-```
-
-or from [pypi](https://pypi.org/project/linkedin_ai/)
+Clone the repo and install:
 
 ``` sh
-$ pip install linkedin_ai
+git clone git@github.com:shahules786/linkedin_ai.git
+cd linkedin_ai
+pip install -e .
 ```
 
-### Usage
+### Example Usage
 
 ``` python
 import os
@@ -38,4 +35,8 @@ Checkout ![example notebook](/docs/0_example.ipynb)
 
                         
                         
+### Features
 
+[x] BM25 Search
+[x] Vector Search
+[x] MLFlow Support
