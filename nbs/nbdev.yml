@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "linkedin_ai"
+  site-url: "https://shahules786.github.io/linkedin_ai"
+  description: "A Linkedin AI app"
+  repo-branch: main
+  repo-url: "https://github.com/shahules786/linkedin_ai"
