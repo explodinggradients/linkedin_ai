@@ -31,7 +31,9 @@ my_ai = LinkedinAI.from_bm25(posts="<path to linkiedin posts>")
 my_ai.ask("What is the best way to learn Python?")
 ```
 
-Checkout ![example notebook](/docs/0_example.ipynb)
+## How to start
+1. Checkout ![example notebook](/docs/0_example.ipynb)
+2. Run first experiment with ![experiment notebook](/docs/01_experiment.ipynb)
 
                         
                         
