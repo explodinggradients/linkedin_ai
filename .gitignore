@@ -1,3 +1,4 @@
+mlflow/
 /yann-lecun-wisdom/*
 mlruns/
 *.npy
