@@ -6,7 +6,7 @@ Build Your Own AI Assistant powered by LinkedIn Content
 ```
 git clone git@github.com:shahules786/linkedin_ai.git
 cd linkedin_ai
-pip install -e .
+pip install --pre-release=allow -e . # mlflow is pre-release
 ```
 
 ## Your Hackathon Journey
