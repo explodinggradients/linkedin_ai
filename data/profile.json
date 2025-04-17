@@ -1,0 +1,1683 @@
+{
+  "skills": [
+    {
+      "name": "Research"
+    },
+    {
+      "name": "machine learning"
+    },
+    {
+      "name": "computer vision"
+    },
+    {
+      "name": "robotics"
+    }
+  ],
+  "experience": [
+    {
+      "locationName": "New York, New York, United States",
+      "entityUrn": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1862871202)",
+      "geoLocationName": "New York, New York, United States",
+      "geoUrn": "urn:li:fs_geo:102571732",
+      "companyName": "Facebook",
+      "timePeriod": {
+        "startDate": {
+          "month": 10,
+          "year": 2021
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Computer Software"
+        ]
+      },
+      "title": "VP & Chief AI Scientist at Meta",
+      "region": "urn:li:fs_region:(us,0)",
+      "companyUrn": "urn:li:fs_miniCompany:76987811",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+    },
+    {
+      "locationName": "Greater New York City Area",
+      "entityUrn": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,239324)",
+      "geoLocationName": "Greater New York City Area",
+      "geoUrn": "urn:li:fs_geo:90000070",
+      "companyName": "New York University",
+      "timePeriod": {
+        "startDate": {
+          "month": 9,
+          "year": 2003
+        }
+      },
+      "description": "Silver Professor of Computer Science, Courant Institute of Mathematical Sciences (since 2006)\nProfessor of Neural Science, NYU Center for Neural Science (since 2007)\nProfessor of Electrical and Computer Engineering, NYU School of Engineering (since 2011)\nProfessor of Data Science, NYU Center for Data Science (since 2013)\nFounding Director of the NYU Center for Data Science (since 2013)\n\nResearch and teaching in machine learning, AI, data science, computer vision, robotics, computational neuroscience, and knowledge extraction from data,",
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Higher Education"
+        ]
+      },
+      "title": "Professor",
+      "region": "urn:li:fs_region:(us,70)",
+      "companyUrn": "urn:li:fs_miniCompany:3159",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF6TmzLkch0dQ/company-logo_"
+    },
+    {
+      "locationName": "New York City",
+      "entityUrn": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,685488048)",
+      "geoLocationName": "New York City",
+      "companyName": "Element Inc",
+      "timePeriod": {
+        "startDate": {
+          "month": 7,
+          "year": 2012
+        }
+      },
+      "description": "Elements develops software-based biometric authentication technology.\n",
+      "title": "Co-founder, Advisor"
+    },
+    {
+      "locationName": "Greater New York City Area",
+      "entityUrn": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1325043756)",
+      "geoLocationName": "Greater New York City Area",
+      "geoUrn": "urn:li:fs_geo:90000070",
+      "companyName": "Facebook",
+      "timePeriod": {
+        "endDate": {
+          "month": 10,
+          "year": 2021
+        },
+        "startDate": {
+          "month": 3,
+          "year": 2018
+        }
+      },
+      "description": "Scientific and technical leadership at Facebook AI Research, AI R&D strategy.",
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Computer Software"
+        ]
+      },
+      "title": "VP & Chief AI Scientist",
+      "region": "urn:li:fs_region:(us,70)",
+      "companyUrn": "urn:li:fs_miniCompany:76987811",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+    },
+    {
+      "locationName": "Greater New York City Area",
+      "entityUrn": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,490854946)",
+      "geoLocationName": "Greater New York City Area",
+      "geoUrn": "urn:li:fs_geo:90000070",
+      "companyName": "Facebook",
+      "timePeriod": {
+        "endDate": {
+          "month": 2,
+          "year": 2018
+        },
+        "startDate": {
+          "month": 12,
+          "year": 2013
+        }
+      },
+      "description": "Director of Facebook AI Research (FAIR), with research locations in Menlo Park, New York City, and Paris, focused on bringing about major advances in AI.\n\nProfessor at NYU on a part-time basis (since January 2014).\n\nCofounder and advisor of Elements Inc. (biometrics), and Museami (music technology)",
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Computer Software"
+        ]
+      },
+      "title": "Director of AI Research",
+      "region": "urn:li:fs_region:(us,70)",
+      "companyUrn": "urn:li:fs_miniCompany:76987811",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,22158597)",
+      "school": {
+        "objectUrn": "urn:li:school:12554",
+        "entityUrn": "urn:li:fs_miniSchool:12554",
+        "active": true,
+        "schoolName": "Pierre and Marie Curie University",
+        "trackingId": "L7Whu93YQVe6fUSvfeR4WQ==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFB2Andpcm4zw/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": {
+          "year": 1987
+        },
+        "startDate": {
+          "year": 1983
+        }
+      },
+      "degreeName": "PhD",
+      "schoolName": "Pierre and Marie Curie University",
+      "fieldOfStudy": "Computer Science",
+      "schoolUrn": "urn:li:fs_miniSchool:12554"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,537753638)",
+      "school": {
+        "objectUrn": "urn:li:school:20041",
+        "entityUrn": "urn:li:fs_miniSchool:20041",
+        "active": true,
+        "schoolName": "ESIEE PARIS",
+        "trackingId": "Hqft0Jf/TnGux8WYB7EXyA==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGnsKmdPlPdCg/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": {
+          "year": 1983
+        },
+        "startDate": {
+          "year": 1978
+        }
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100351",
+      "degreeName": "Engineering Diploma",
+      "schoolName": "ESIEE PARIS",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "schoolUrn": "urn:li:fs_miniSchool:20041"
+    }
+  ],
+  "volunteer": [],
+  "certifications": [],
+  "languages": [],
+  "projects": [
+    {
+      "members": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,2)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Matthew",
+            "lastName": "Grimes",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAKmYlMBaXrXDOuoRu4MESNMz7fqAdnNygs",
+            "occupation": "Research Scientist at DeepMind",
+            "objectUrn": "urn:li:member:44458579",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAKmYlMBaXrXDOuoRu4MESNMz7fqAdnNygs",
+            "publicIdentifier": "matthewkoichigrimes",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516484036428?e=1750291200&v=beta&t=amtpnIyPH6f2Ox0KwWculDSxYS9agkSO8lkWhMVlRCQ",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516484035774?e=1750291200&v=beta&t=utgURDeSK7XKGN40w9xIlnl_914jRqJrJPYUDwhXKfc",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516484036041?e=1750291200&v=beta&t=irWkYXlYqkHXSvOr26X63-0tPpulF-CFN8uDqO62Ses",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 450,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516484035769?e=1750291200&v=beta&t=ArENGIZpwzBm-LksvAGGXEoJ0OkaKPZBZ0ow52sFyjA",
+                    "expiresAt": 1750291200000,
+                    "height": 450
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEPS46cZ4e8zg/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "EjgBGuatS1ewgz+nT6pj7Q=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,3)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAKmYlMBaXrXDOuoRu4MESNMz7fqAdnNygs"
+        },
+        {
+          "member": {
+            "firstName": "Marco",
+            "lastName": "Scoffier",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAoixcYBDbMveaa1FDQ36b1fl1aXiLcCx8A",
+            "occupation": "AI Infrastructure Team at NVIDIA",
+            "objectUrn": "urn:li:member:170051014",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAoixcYBDbMveaa1FDQ36b1fl1aXiLcCx8A",
+            "publicIdentifier": "marco-scoffier-19ab4948",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517499837213?e=1750291200&v=beta&t=FCMfwbD4WZ9YtsTyAUVlw7zfYEpbEJrMuexSb4lNZmE",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517499837539?e=1750291200&v=beta&t=P2gdbMZQbSTgyQyA4A1XcLrElNNxtnCk_--Ee4YoWbo",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 337,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517499837264?e=1750291200&v=beta&t=FzVoUqIUFOezj-r0uxFXhaySSvwZEkUBHimr-4NRlIU",
+                    "expiresAt": 1750291200000,
+                    "height": 337
+                  },
+                  {
+                    "width": 337,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517499837552?e=1750291200&v=beta&t=8zuqatIcPsGavDMB1WT7e_kUvr-5I4Uo18LuYbEY9UI",
+                    "expiresAt": 1750291200000,
+                    "height": 337
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFR7F2sbUZj4g/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "SKjGzDYKT+SaIORLMZX5bw=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,4)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAoixcYBDbMveaa1FDQ36b1fl1aXiLcCx8A"
+        },
+        {
+          "member": {
+            "firstName": "Ayşe Naz",
+            "lastName": "Erkan",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAQgAEwBHkrzTC6DEFu2Zbt5nqGcUvUfzpw",
+            "occupation": "Co-founder, CTO & CPO",
+            "objectUrn": "urn:li:member:69206092",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAQgAEwBHkrzTC6DEFu2Zbt5nqGcUvUfzpw",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1728085922361?e=1750291200&v=beta&t=ypSGS7LCakxLzsEE3c-vGQY4GUKVaVGvbsKCyJZncKk",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1128,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728085922361?e=1750291200&v=beta&t=5_jWVNNoxro5VRq_v9jY2GgbRkTNnvyKL5v_LDFrRIY",
+                    "expiresAt": 1750291200000,
+                    "height": 282
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQEfUeboq8YaBg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "nazerkan",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1707948015716?e=1750291200&v=beta&t=SvzT0iGBzBVhoc84Fn41VGdmBmpezgO8JqCT1vcoUsI",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1707948015716?e=1750291200&v=beta&t=SuVbwQLMUzNdHRR5Ak7qkXea0CHCVFRXf6NPj0ZcEqw",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1707948015716?e=1750291200&v=beta&t=g4d0YnuFyF_80HctnS6pDixk7Vp69arlA7gQkF02yq0",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1707948015716?e=1750291200&v=beta&t=t7QkvYAtphe9uzKivaL5eb0LkrkgOuq1EZItJEcmftI",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQESxTMUy26hyg/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "ASTeBSqDTW2Yzol5Oa2tPQ=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,5)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAQgAEwBHkrzTC6DEFu2Zbt5nqGcUvUfzpw"
+        },
+        {
+          "member": {
+            "firstName": "Urs",
+            "lastName": "Muller",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAEN8MBVXqx2kG6ktP_DuhtWrZetkURjqU",
+            "occupation": "Senior Director of System Software/Chief Architect-Autonomous Driving",
+            "objectUrn": "urn:li:member:276419",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAEN8MBVXqx2kG6ktP_DuhtWrZetkURjqU",
+            "publicIdentifier": "ursmuller",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1574356821350?e=1750291200&v=beta&t=0yw7IHPDO2gkSEUmeoWMC3yAp-NfHk2KwU385lv3G_o",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1574356821305?e=1750291200&v=beta&t=T8JkHxe6i1t9iMujTvdZVgh0FKFURGhCpTzB45ChEds",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1574356821395?e=1750291200&v=beta&t=lUJu9KJwRJSkot4JPM53RRLf2L-83taUHJFGZMQYwCI",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 500,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1574356821431?e=1750291200&v=beta&t=sYCPxWSDWZntuW82qSdllppxYzdIWM35jkS67xEEbXo",
+                    "expiresAt": 1750291200000,
+                    "height": 500
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQH1RbV1_7k05Q/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "iFnzPKT1TAmuiyzrOznNmQ=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,6)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAAEN8MBVXqx2kG6ktP_DuhtWrZetkURjqU"
+        },
+        {
+          "name": "Raia Hadsell",
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,1,7)"
+        }
+      ],
+      "timePeriod": {
+        "endDate": {
+          "month": 6,
+          "year": 2008
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2006
+        }
+      },
+      "description": "LAGR was a DARPA competition in autonomous vision-based off-road robot navigation. Nine labs competed in many races through complex off-road terrain over the course of 3 years. In the first year, our team achieved the competition's 3-year goal of improving the baseline run-time by a factor of 2, forcing the government to up the goal to a factor of 3. \n\nUsing visual input for navigation is essential in unstructured outdoor environments, which can cause simpler sensors such as GPS, odometry, and laser scanners to drift severely or become unusably noisy. As an alternative to such sensors, I contributed a novel, fast form of visual odometry. Our efficient “hybrid visual odometry” method used 5% of the CPU time, in contrast to full VO methods which require an entire CPU. Despite this, it maintained comparable accuracy to full VO over diverse terrain types. This makes it particularly suitable for consumer robots, extraterrestrial rovers, and other platforms with limited computing power. \n\nThis contribution was described in the ICRA 2009 paper Efficient Off-Road Localization Using Visually Corrected Odometry, and contributed to our JFR 2009 paper, A Multi-Range Architecture for Collision-Free Off-Road Robot Navigation.",
+      "title": "LAGR",
+      "url": "http://www.cs.nyu.edu/~yann/research/lagr/index.html"
+    },
+    {
+      "occupation": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,22825565)",
+      "members": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,70)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Patrick",
+            "lastName": "Haffner",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo",
+            "occupation": "Optimizing the collaboration between AI and humans.",
+            "objectUrn": "urn:li:member:924479",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo",
+            "publicIdentifier": "patrick-haffner-bbb386",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516241888363?e=1750291200&v=beta&t=ld8cEReCJwFtmeYxoaD5BWnijZ22yjCgNBW8WAWVg-k",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516241888388?e=1750291200&v=beta&t=tg7aZ-5lTWvRAnn6Kaf2HEI6TFx4CI_pTY3HFAY8EYo",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 278,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516241888395?e=1750291200&v=beta&t=z1B8D-MjNpXlPPWA5Q4iZ7mgkEclVC5i6cIqy_gLmp4",
+                    "expiresAt": 1750291200000,
+                    "height": 278
+                  },
+                  {
+                    "width": 278,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516241888371?e=1750291200&v=beta&t=T-XoqzGMtT_0tkDGSt-LBVkNEJBW0i_ekd1hzCh-b-A",
+                    "expiresAt": 1750291200000,
+                    "height": 278
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEC6vQjsqauKQ/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "gRWwBgriTraTzuAxcbaJZQ=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,71)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo"
+        },
+        {
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,72)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADE10BLwTf9Wex9pbo6RpLdIJAmAy5Bm0"
+        },
+        {
+          "member": {
+            "firstName": "Paul",
+            "lastName": "Howard",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAJ8kjYBQwKLIVg__8bFwPMGymo6TFf0yhs",
+            "occupation": "Retired Software Engineer",
+            "objectUrn": "urn:li:member:41718326",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAJ8kjYBQwKLIVg__8bFwPMGymo6TFf0yhs",
+            "publicIdentifier": "paul-howard-672b7a11",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517776055129?e=1750291200&v=beta&t=fYkd2IwIj2sbM6EMahGDPJOgeoDZmOCCTpAp8VnNkt0",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517776055130?e=1750291200&v=beta&t=3-wBiiNA92vcxaYuDVGQ5KcsSdtj9pbOF3LJzNrLs8I",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517776055127?e=1750291200&v=beta&t=Wc5HG_3sgnEzh4u2k7W4EwMzjwdF3VQNNdL0kEw-aG4",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 450,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517776055135?e=1750291200&v=beta&t=jDMnnpL2a2BKU4VxsYHYH5tzhRqOR04QwQd0SBpdjy4",
+                    "expiresAt": 1750291200000,
+                    "height": 450
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQHYfrq5ns9e9w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "iKvASv5MSce/kdyDeXfh9g=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,73)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAJ8kjYBQwKLIVg__8bFwPMGymo6TFf0yhs"
+        },
+        {
+          "member": {
+            "firstName": "Bill C.",
+            "lastName": "Riemers",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADEh4BpcfJkeeJZqORVziAyD_3zmy4gDs",
+            "occupation": "Senior Principal Software Engineer at Red Hat",
+            "objectUrn": "urn:li:member:201246",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADEh4BpcfJkeeJZqORVziAyD_3zmy4gDs",
+            "publicIdentifier": "bill-c-riemers-56698",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1693622453309?e=1750291200&v=beta&t=iMhWUv3l8VGmba2Cs41_1Q2sJRJJP8Iw-BaFaAqluuU",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1693622453309?e=1750291200&v=beta&t=Kc8hNZdhWsSBeZjbd7hGSxaO6iJQ2HlfAigQXL3tZhM",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1693622453309?e=1750291200&v=beta&t=aHDuolZyyus8ximv_HcPywL42YiTDPHOxuYjRDJQNmI",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1693622453309?e=1750291200&v=beta&t=w23s1L2cpCCiuNzqlw7T57z7-851ka7eig9atRyIuOQ",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQEwOL86Hz4trQ/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "v3H6HKHESIKzcV9+N+CBxg=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,74)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADEh4BpcfJkeeJZqORVziAyD_3zmy4gDs"
+        },
+        {
+          "member": {
+            "firstName": "Luc",
+            "lastName": "Vincent",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAABNZwBupx0hl52NM3dgk33qTGLiyWFjwA",
+            "occupation": "Tech Exec | ex- Meta (VP of AI), Google, Lyft Level 5 | Investor, Advisor, Board Member",
+            "objectUrn": "urn:li:member:79260",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAABNZwBupx0hl52NM3dgk33qTGLiyWFjwA",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1675608995169?e=1750291200&v=beta&t=Swg820hDPUBsCuGJZAqA9gdDVxzzDW4Rqui4EBjHt8U",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675608995169?e=1750291200&v=beta&t=5m_WLUN7V1PVqMZhEHDlg0-Qu-So2IM7UGbZ-Lawe0Q",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQFDkyzi9l5kvg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "lucvincent",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1728328037482?e=1750291200&v=beta&t=rcAFrZwBFh-dQMDwkT6Cc1BdhjJLfUZipv71crpEzEs",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1728328037482?e=1750291200&v=beta&t=JUZgYDqIK_E7TH0DiHrA-DGU5nqC6eS9e6GfFl86qoU",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1728328037482?e=1750291200&v=beta&t=0NRtZ-kTosrU_VxDb3ic-dvtCH6GP5TQeX04FoqKjIw",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1728328037502?e=1750291200&v=beta&t=zrSdyVu-jOnIqtIkppK1WYrLKx8ePRwMfgJGQrkdy9U",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH8VBIIuBLUdA/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "ryQwyXcUSRia3LEeBZ9low=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,69,75)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAABNZwBupx0hl52NM3dgk33qTGLiyWFjwA"
+        }
+      ],
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2002
+        },
+        "startDate": {
+          "month": 4,
+          "year": 1997
+        }
+      },
+      "description": "DjVu (pronounced \"déjà vu\") is a digital document format with advanced compression technology.\n\nI initiated and directed the project.",
+      "title": "DjVu",
+      "url": "http://djvu.org"
+    },
+    {
+      "occupation": "urn:li:fs_position:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,42643493)",
+      "members": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,77)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Patrick",
+            "lastName": "Haffner",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo",
+            "occupation": "Optimizing the collaboration between AI and humans.",
+            "objectUrn": "urn:li:member:924479",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo",
+            "publicIdentifier": "patrick-haffner-bbb386",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516241888363?e=1750291200&v=beta&t=ld8cEReCJwFtmeYxoaD5BWnijZ22yjCgNBW8WAWVg-k",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516241888388?e=1750291200&v=beta&t=tg7aZ-5lTWvRAnn6Kaf2HEI6TFx4CI_pTY3HFAY8EYo",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 278,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516241888395?e=1750291200&v=beta&t=z1B8D-MjNpXlPPWA5Q4iZ7mgkEclVC5i6cIqy_gLmp4",
+                    "expiresAt": 1750291200000,
+                    "height": 278
+                  },
+                  {
+                    "width": 278,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516241888371?e=1750291200&v=beta&t=T-XoqzGMtT_0tkDGSt-LBVkNEJBW0i_ekd1hzCh-b-A",
+                    "expiresAt": 1750291200000,
+                    "height": 278
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEC6vQjsqauKQ/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "gRWwBgriTraTzuAxcbaJZQ=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,78)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAAOGz8BkB5PpRSYnzCaKVXIrk1bgehg2Eo"
+        },
+        {
+          "name": "yann",
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,79)"
+        },
+        {
+          "member": {
+            "firstName": "Jane",
+            "lastName": "Bromley",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAHDKl8BcJuvOboASLbj7XnJZiTPCVgz4tk",
+            "occupation": "Lecturer in Artificial Stupidity at The Open University",
+            "objectUrn": "urn:li:member:29567583",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAHDKl8BcJuvOboASLbj7XnJZiTPCVgz4tk",
+            "publicIdentifier": "jane-bromley-a53a9a9",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1517674771699?e=1750291200&v=beta&t=L6rvLixyEiMwQ-p4CMejQl359jebBRX0eT2LmJguv8Y",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 109,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1517674771695?e=1750291200&v=beta&t=4a88Ip8KpAqmzhD8mZmYHKvNcJUllnCJZX9CatihkOI",
+                    "expiresAt": 1750291200000,
+                    "height": 109
+                  },
+                  {
+                    "width": 109,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1517674771698?e=1750291200&v=beta&t=63Hwu_skQRmMGVihpYCh2k0KeyFi87hNqXM2TaucR3U",
+                    "expiresAt": 1750291200000,
+                    "height": 109
+                  },
+                  {
+                    "width": 109,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1517674771712?e=1750291200&v=beta&t=dWOmFbihmNWChB9A2WguRUJX6xZB867kYnu70Kb_d9U",
+                    "expiresAt": 1750291200000,
+                    "height": 109
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFX4miPloKKxw/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "dbsRTPooQIWjg6jvqg9QKw=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,80)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAHDKl8BcJuvOboASLbj7XnJZiTPCVgz4tk"
+        },
+        {
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,81)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADE10BLwTf9Wex9pbo6RpLdIJAmAy5Bm0"
+        },
+        {
+          "member": {
+            "firstName": "Craig",
+            "lastName": "Nohl",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUjvuEBGo0wDlTV5to16YkFFRjzGIwi6pA",
+            "occupation": "Retired from AT&T",
+            "objectUrn": "urn:li:member:86228705",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUjvuEBGo0wDlTV5to16YkFFRjzGIwi6pA",
+            "publicIdentifier": "craig-nohl-a55a6424",
+            "trackingId": "4owOmTd1Q36UtBWBqR1miw=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,82)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAUjvuEBGo0wDlTV5to16YkFFRjzGIwi6pA"
+        },
+        {
+          "member": {
+            "firstName": "Yoshua",
+            "lastName": "Bengio",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUyvxABF23qZBS5f4xTAqqAqO3Yd4MHbqQ",
+            "occupation": "Full professor at Université de Montréal, Founder and Scientific Director at Mila",
+            "objectUrn": "urn:li:member:87211792",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUyvxABF23qZBS5f4xTAqqAqO3Yd4MHbqQ",
+            "publicIdentifier": "yoshuabengio",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/B4EZRlscK8HMAc-/0/1736872936486?e=1750291200&v=beta&t=q4v2GCOhfsOhK2_dJmQYwDe3HoiWqFzexNylclHs67o",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  },
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/B4EZRlscK8HMAU-/0/1736872936486?e=1750291200&v=beta&t=PNFTRvbRKb-K9deMt8nEhJfkA4Ngo-P5B7RN12MtWhc",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/B4EZRlscK8HMAg-/0/1736872936486?e=1750291200&v=beta&t=a7frURdL0_z8Sz0y7cDk17cddyAMjfuOZjRY_Av2uFU",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/B4EZRlscK8HMAY-/0/1736872936456?e=1750291200&v=beta&t=U6Jdhmpu22UJ5GHqEZAc4nR1j6r35O57hFiQQHctyzc",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHGh4-ltg7m4w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "DLVUnydmTwqVxWKI7X7tgg=="
+          },
+          "entityUrn": "urn:li:fs_contributor:(ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q,76,83)",
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAUyvxABF23qZBS5f4xTAqqAqO3Yd4MHbqQ"
+        }
+      ],
+      "timePeriod": {
+        "endDate": {
+          "month": 4,
+          "year": 1996
+        },
+        "startDate": {
+          "month": 7,
+          "year": 1991
+        }
+      },
+      "description": "The first practical system for reading the amount on bank checks.\nIt was deployed by NCR first in ATM machines in 1995, then in high-speed check reading machines in 1996. At some point in the late 90's these systems read an estimated 10 to 20% of all the checks in the US.\n\nIt used a convolutional neural net, combined with a so-called graph-transformer network, a form of non conditional random field in which the solution space can be represented by a treillis.\n ",
+      "title": "Check Recognition with Deep Learning",
+      "url": "http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"
+    }
+  ],
+  "publications": [
+    {
+      "date": {
+        "month": 12,
+        "year": 2013
+      },
+      "name": "Feature Learning and Deep Architectures: New Directions for Music Informatics",
+      "publisher": "Journal of Intelligent Information Systems / Springer",
+      "url": "http://link.springer.com/article/10.1007/s10844-013-0248-5",
+      "authors": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Eric",
+            "lastName": "Humphrey",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c",
+            "occupation": "SVP Engineering | Purpose-driven Executive, Architect, Researcher, & Engineer (ex-Spotify)",
+            "objectUrn": "urn:li:member:28464197",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c",
+            "publicIdentifier": "ejhumphrey",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1700245483923?e=1750291200&v=beta&t=7U7GqbILQpJSMSLtTlS1XPvO4Be1rVPoZ4xnAadrbBw",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1700245483923?e=1750291200&v=beta&t=_Rv8uCYxKI4-fysxQDxMVGFUsDst7_658NIC6vyPD9Y",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1700245483923?e=1750291200&v=beta&t=LjN8KWdpC9j5WAUhCinrWEAxZj2LZtfa_atbElpqWpE",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1700245483923?e=1750291200&v=beta&t=F5_lpxWbwP_q4VBDd6Zu3arMYQFc351pX-XiVlYYjxM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEZVliqnnPtkg/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "TWpudkIFQkqWhix+6eJjlQ=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c"
+        },
+        {
+          "name": "Juan Bello"
+        }
+      ]
+    },
+    {
+      "date": {
+        "month": 10,
+        "year": 2012,
+        "day": 24
+      },
+      "name": "Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics",
+      "publisher": "Proc. of the International Society of Music Information Retrieval (ISMIR) 2012",
+      "url": "http://ismir2012.ismir.net/event/papers/403-ismir-2012.pdf",
+      "authors": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Eric",
+            "lastName": "Humphrey",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c",
+            "occupation": "SVP Engineering | Purpose-driven Executive, Architect, Researcher, & Engineer (ex-Spotify)",
+            "objectUrn": "urn:li:member:28464197",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c",
+            "publicIdentifier": "ejhumphrey",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1700245483923?e=1750291200&v=beta&t=7U7GqbILQpJSMSLtTlS1XPvO4Be1rVPoZ4xnAadrbBw",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1700245483923?e=1750291200&v=beta&t=_Rv8uCYxKI4-fysxQDxMVGFUsDst7_658NIC6vyPD9Y",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1700245483923?e=1750291200&v=beta&t=LjN8KWdpC9j5WAUhCinrWEAxZj2LZtfa_atbElpqWpE",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1700245483923?e=1750291200&v=beta&t=F5_lpxWbwP_q4VBDd6Zu3arMYQFc351pX-XiVlYYjxM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEZVliqnnPtkg/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "TWpudkIFQkqWhix+6eJjlQ=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAGyVEUBj_Zp7-_48H3DPGUmSmSY4O02D3c"
+        },
+        {
+          "name": "Juan Bello"
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2010
+      },
+      "name": "Predictive network modeling of the high-resolution dynamic plant transcriptome in response to nitrate",
+      "publisher": "Genome Biology",
+      "authors": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Piotr",
+            "lastName": "Mirowski",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "occupation": "Senior Staff Research Scientist at DeepMind",
+            "objectUrn": "urn:li:member:16404596",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "publicIdentifier": "piotrmirowski",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1661703496923?e=1750291200&v=beta&t=42pDsMn05hdmcyM-cpCqZVyUk8DhLjDUnCKcrq-uthQ",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1661703496923?e=1750291200&v=beta&t=n7mnF-2mdBgSeBXOoI6-bt9H9SUzRO7-UY64PKP0Y3A",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1661703496923?e=1750291200&v=beta&t=mkEsyuRFVYHD-eCiIxr5skq_AIsTgSWnqGTPl4RGLJA",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1661703496923?e=1750291200&v=beta&t=v_mHBB_O5n8IvY3UEZYPI_bOCxCxx-Z1XNKtJbfHptk",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFwa7gvxzXwQw/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "SdBLFRgYTA+PRcYZzNI5ew=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM"
+        },
+        {
+          "name": "Gabriel Krouk"
+        },
+        {
+          "member": {
+            "firstName": "Dennis",
+            "lastName": "Shasha",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAFmq40BaG5SU6lM9dvasqs9LXIrOOiL9a8",
+            "occupation": "Professor at New York University",
+            "objectUrn": "urn:li:member:23505805",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAFmq40BaG5SU6lM9dvasqs9LXIrOOiL9a8",
+            "publicIdentifier": "dennis-shasha-a91a567",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516339334149?e=1750291200&v=beta&t=1C2B5SojPu2RsOdZHh1V21zitYAn0w1EgcTtwcA12tk",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516339334072?e=1750291200&v=beta&t=RZlojPh9-rk5IkCdx8XfBM5UXZmIOzbx_0qPfpNjYDE",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516339334013?e=1750291200&v=beta&t=FJGIzFPXEfob5qSCElh0w5HKySWqD2ehhqa_eTL976A",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516339334240?e=1750291200&v=beta&t=pZYUYl8iDV2SAWCJ2lA-NRlEryNeFoEn6fNZfjNdb6M",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQETzXOr_KFTbQ/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "CePZF10JTSSrAsRxfLC7cQ=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAFmq40BaG5SU6lM9dvasqs9LXIrOOiL9a8"
+        },
+        {
+          "name": "Gloria Coruzzi"
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2009
+      },
+      "name": "Classification of patterns of EEG synchronization for seizure prediction",
+      "publisher": "Clinical Neurophysiology",
+      "authors": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Piotr",
+            "lastName": "Mirowski",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "occupation": "Senior Staff Research Scientist at DeepMind",
+            "objectUrn": "urn:li:member:16404596",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "publicIdentifier": "piotrmirowski",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1661703496923?e=1750291200&v=beta&t=42pDsMn05hdmcyM-cpCqZVyUk8DhLjDUnCKcrq-uthQ",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1661703496923?e=1750291200&v=beta&t=n7mnF-2mdBgSeBXOoI6-bt9H9SUzRO7-UY64PKP0Y3A",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1661703496923?e=1750291200&v=beta&t=mkEsyuRFVYHD-eCiIxr5skq_AIsTgSWnqGTPl4RGLJA",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1661703496923?e=1750291200&v=beta&t=v_mHBB_O5n8IvY3UEZYPI_bOCxCxx-Z1XNKtJbfHptk",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFwa7gvxzXwQw/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "SdBLFRgYTA+PRcYZzNI5ew=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM"
+        },
+        {
+          "member": {
+            "firstName": "Deepak",
+            "lastName": "Madhavan MD MBA FACHE",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE",
+            "occupation": "Chief Medical Officer, VP Medical Affairs",
+            "objectUrn": "urn:li:member:142735544",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE",
+            "publicIdentifier": "deepak-madhavan-md-mba-fache-7089753b",
+            "trackingId": "rHoN+fmcQRuZBYGr375ZUw=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE"
+        },
+        {
+          "name": "ruben kuzniecky"
+        }
+      ]
+    },
+    {
+      "date": {
+        "month": 10,
+        "year": 2008
+      },
+      "name": "Comparing SVM and convolutional networks for epileptic seizure prediction from intracranial EEG",
+      "publisher": "IEEE Workshop on Machine Learning for Signal Processing",
+      "authors": [
+        {
+          "member": {
+            "firstName": "Yann",
+            "lastName": "LeCun",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "occupation": "VP & Chief AI Scientist at Meta",
+            "objectUrn": "urn:li:member:202317",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q",
+            "backgroundImage": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1642552059040?e=1750291200&v=beta&t=71ObdqflxB_CrrlWfhuQ17nWXxm_UGwClv6JFB-1r1Q",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 1400,
+                    "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642552059040?e=1750291200&v=beta&t=4pdGr1Y3j1-dGNfEtK8-4W_hs6jd54ZG3oiXU-DBPXA",
+                    "expiresAt": 1750291200000,
+                    "height": 350
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFP9-46LMUGfg/profile-displaybackgroundimage-shrink_"
+              }
+            },
+            "publicIdentifier": "yann-lecun",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1642552032280?e=1750291200&v=beta&t=G-o7rICwk93cl2YumGF6V6gOZVXlcbdkp0bcW3xkMAY",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1642552032280?e=1750291200&v=beta&t=Lcwca2np47aJG2eXIZNoCW6qIOmROKlVRuBHSuuuiv0",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1642552032280?e=1750291200&v=beta&t=xwTPKP2lchJsg2YoBV0-cGbDLIIA63a2wXooCAz1-ig",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1642552032280?e=1750291200&v=beta&t=M0Aj7qeWJgXL8_4BROs7JbCvkh8izVzOAKFuWrJ9KGM",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHBLoV7GRUP2w/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "F4TKz1S7RZioJw5CgttEvA=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAADFk0BbiOeu2Wrer11SaPH_5m1GM8pG6Q"
+        },
+        {
+          "member": {
+            "firstName": "Piotr",
+            "lastName": "Mirowski",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "occupation": "Senior Staff Research Scientist at DeepMind",
+            "objectUrn": "urn:li:member:16404596",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM",
+            "publicIdentifier": "piotrmirowski",
+            "picture": {
+              "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1661703496923?e=1750291200&v=beta&t=42pDsMn05hdmcyM-cpCqZVyUk8DhLjDUnCKcrq-uthQ",
+                    "expiresAt": 1750291200000,
+                    "height": 100
+                  },
+                  {
+                    "width": 200,
+                    "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1661703496923?e=1750291200&v=beta&t=n7mnF-2mdBgSeBXOoI6-bt9H9SUzRO7-UY64PKP0Y3A",
+                    "expiresAt": 1750291200000,
+                    "height": 200
+                  },
+                  {
+                    "width": 400,
+                    "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1661703496923?e=1750291200&v=beta&t=mkEsyuRFVYHD-eCiIxr5skq_AIsTgSWnqGTPl4RGLJA",
+                    "expiresAt": 1750291200000,
+                    "height": 400
+                  },
+                  {
+                    "width": 800,
+                    "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1661703496923?e=1750291200&v=beta&t=v_mHBB_O5n8IvY3UEZYPI_bOCxCxx-Z1XNKtJbfHptk",
+                    "expiresAt": 1750291200000,
+                    "height": 800
+                  }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFwa7gvxzXwQw/profile-displayphoto-shrink_"
+              }
+            },
+            "trackingId": "SdBLFRgYTA+PRcYZzNI5ew=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAD6UHQBJslpYH-LKkmE2-m3pdOfUU_7DTM"
+        },
+        {
+          "member": {
+            "firstName": "Deepak",
+            "lastName": "Madhavan MD MBA FACHE",
+            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE",
+            "occupation": "Chief Medical Officer, VP Medical Affairs",
+            "objectUrn": "urn:li:member:142735544",
+            "entityUrn": "urn:li:fs_miniProfile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE",
+            "publicIdentifier": "deepak-madhavan-md-mba-fache-7089753b",
+            "trackingId": "rHoN+fmcQRuZBYGr375ZUw=="
+          },
+          "profileUrn": "urn:li:fs_miniProfile:ACoAAAiB-LgBJrtB9tpNmpQod3eYycvpbaLqxkE"
+        },
+        {
+          "name": "Ruben Kuzniecky"
+        }
+      ]
+    }
+  ],
+  "honors": [],
+  "url": "https://www.linkedin.com/in/yann-lecun/"
+}
