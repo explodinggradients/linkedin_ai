@@ -92,8 +92,8 @@ class LinkedinAI:
         # Initialize OpenAI client with Instructor
         
         # Load documents
-        documents = await cls._load_posts(posts)
-        
+        documents = cls._load_posts(posts)
+    
         # Create vector file path
         vector_file = posts.replace(".json", "_vectors.npy")
         

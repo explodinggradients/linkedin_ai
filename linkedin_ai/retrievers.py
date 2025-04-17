@@ -120,7 +120,8 @@ class VectorRetriever(BaseRetriever):
         # Generate embeddings for all documents
         embeddings = []
         for i, doc in enumerate(self.documents):
-            print(f"Generating embedding for document {i+1}/{len(self.documents)}...")
+            if verbose:
+                print(f"Generating embedding for document {i+1}/{len(self.documents)}...")
             embedding = await self.get_embedding(doc.content)
             doc.embedding = embedding
             embeddings.append(embedding)
