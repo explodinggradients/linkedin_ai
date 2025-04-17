@@ -19,7 +19,7 @@ Start by checking out the [example notebook](0_example.ipynb) to understand how 
 - How to ask questions and get responses
 
 ### Step 2: Run Your First Experiment
-Move on to the [experiment notebook](01_experiment.ipynb) where you'll learn:
+Move on to the [experiment notebook](1_experiment.ipynb) where you'll learn:
 
 - How to set up LLM-based evaluation metrics
 - How to run and track experiments systematically
