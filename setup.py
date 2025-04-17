@@ -11,7 +11,7 @@ setup(
         "rank_bm25",
         "jinja2",
         "mlflow==3.0.0rc0",
-        "git+https://github.com/explodinggradients/ragas_experimental.git",
+        "ragas-experimental",
         "ipykernel",
     ],
     author="Shahul Es",
@@ -27,5 +27,5 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
     ],
-    python_requires=">=3.7",
+    python_requires=">=3.10",
 )
