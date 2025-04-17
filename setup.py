@@ -11,8 +11,10 @@ setup(
         "rank_bm25",
         "jinja2",
         "mlflow==3.0.0rc0",
-        "git+https://github.com/explodinggradients/ragas_experimental.git",
         "ipykernel",
+    ],
+    dependency_links=[
+        "git+https://github.com/explodinggradients/ragas_experimental.git#egg=ragas_experimental",
     ],
     author="Shahul Es",
     author_email="shahules786@gmail.com",
