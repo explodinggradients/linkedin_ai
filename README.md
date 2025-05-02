@@ -4,7 +4,7 @@ Build Your Own AI Assistant powered by LinkedIn Content
 ## 🚀 Getting Started: Installation
 
 ```
-git clone git@github.com:shahules786/linkedin_ai.git
+git@github.com:explodinggradients/linkedin_ai.git
 cd linkedin_ai
 pip install --pre-release=allow -e . # mlflow is pre-release
 ```
