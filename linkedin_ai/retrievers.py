@@ -79,16 +79,13 @@ class BM25Retriever(BaseRetriever):
         return [self.documents[i] for i in top_indices]
 
 
-
-from openai import AsyncOpenAI
-
 class VectorRetriever(BaseRetriever):
     """Vector-based document retrieval."""
     
-    def __init__(self, model_name: str, documents: List[Document], top_k: int = 3):
+    def __init__(self, client, model_name: str, documents: List[Document],top_k: int = 3):
         super().__init__(documents, top_k)
         self.model_name = model_name
-        self.client = AsyncOpenAI()
+        self.client = client
         self.document_vectors = None
     
     async def get_embedding(self, text: str) -> List[float]:
