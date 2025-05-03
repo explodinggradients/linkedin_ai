@@ -2,7 +2,6 @@
 import json
 import os
 from typing import List
-from openai import AsyncOpenAI
 from mlflow import trace
 
 from .document import Document
@@ -19,6 +18,7 @@ class LinkedinAI:
     
     def __init__(
         self, 
+        client,
         retriever: BaseRetriever,
         model: str = "gpt-4o",
         max_tokens: int = 1000,
@@ -29,7 +29,7 @@ class LinkedinAI:
         self.model = model
         self.max_tokens = max_tokens
         self.temperature = temperature
-        self.client = AsyncOpenAI()
+        self.client = client
     
     @classmethod
     def _load_posts(cls, file_path: str) -> List[Document]:
@@ -59,6 +59,7 @@ class LinkedinAI:
     @classmethod
     async def from_bm25(
         cls,
+        client,
         posts: str,
         model: str = "gpt-4o",
         top_k: int = 3,
@@ -75,11 +76,12 @@ class LinkedinAI:
         retriever = BM25Retriever(documents, top_k)
         await retriever.initialize()
         
-        return cls(retriever,model, max_tokens, temperature, verbose)
+        return cls(client, retriever, model, max_tokens, temperature, verbose)
     
     @classmethod
     async def from_vector_search(
         cls,
+        client,
         posts: str,
         embedding_model: str = "text-embedding-ada-002",
         model: str = "gpt-4o",
@@ -102,7 +104,7 @@ class LinkedinAI:
         # Pass the client during initialization
         await retriever.initialize(vector_file)
         
-        return cls(retriever, model, max_tokens, temperature, verbose)
+        return cls(client, retriever, model, max_tokens, temperature, verbose)
     
     @trace()
     async def ask(self, query: str, verbose: bool = False) -> str:
